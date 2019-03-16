@@ -1,15 +1,14 @@
 //
-//  myTaxiAppTests.swift
+//  VehicleModelTests.swift
 //  myTaxiAppTests
 //
-//  Created by Satyam Sehgal on 09/03/19.
+//  Created by Satyam Sehgal on 15/03/19.
 //  Copyright © 2019 Satyam Sehgal. All rights reserved.
 //
 
 import XCTest
-@testable import myTaxiApp
 
-class myTaxiAppTests: XCTestCase {
+class VehicleModelTests: XCTestCase {
 
     override func setUp() {
         // Put setup code here. This method is called before the invocation of each test method in the class.
